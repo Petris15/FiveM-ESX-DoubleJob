@@ -15,6 +15,8 @@ This script has been created especially for FiveM Roleplay servers. It allows yo
 
 ## Tutorial
 
+To set someone's second job, this is the command usage: `/setmafiajob [id] [mafiajobname] [mafiagrade]`
+
 To make a normal job gets only inserted in player's 2nd slot job you do all the following replaces:
 
 -- SCRIPT REPLACES --
